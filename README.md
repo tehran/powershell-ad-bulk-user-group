@@ -1,1 +1,1 @@
-# powershell-ad-bulk-user-group
+# powershell-bulk-ad-group
